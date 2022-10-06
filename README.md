@@ -1,1 +1,1 @@
-# Kos-Test-Project
+# KosProj
